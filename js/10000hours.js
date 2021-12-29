@@ -26,7 +26,7 @@ function calculator(){
         alert('잘못된 값입니다. 24이하의 값을 입력해 주세요');
         return false;
     }
-
+    
     result.style.display='none';
     loading.style.display ='flex';
 
